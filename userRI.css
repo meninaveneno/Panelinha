@@ -127,12 +127,13 @@ background-clip: text;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://data.whicdn.com/images/326573473/superthumb.jpg?t=1549899460");
+    background-image: url("https://pbs.twimg.com/profile_images/1138384531784908801/rtjBbbwt_400x400.jpg");
 
 }
 #user-rollover.id-23246837 .thumb .avi {
-    background: url(https://26.media.tumblr.com/tumblr_lvw406VUGV1r79lsqo1_500.gif) center center / 180px no-repeat !important;
+    background: url(https://media1.tenor.com/images/f31986e941238a30c7d2128e3b9092b9/tenor.gif) center center / 180px no-repeat !important;
 }
+
 
 /* Caique */ 
 [data-cid^="3409101-"] .badge-box .bdg,
@@ -239,7 +240,7 @@ background-clip: text;
     background-size: cover;
     background-repeat: repeat;
     background-position: center;
-    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/869621865016493027/0CBABE089C2E8D07C8DE458841C401E8B80467FD/");
+    background-image: url("https://pbs.twimg.com/media/Cf_rZhTUEAA5hG_.jpg");
 }	
 /* Lolla/3 */
 [data-cid^="23246837"] .msg .from .un {
@@ -477,7 +478,7 @@ height: 146px !important;
     font-size: 10px;
 }
 #user-rollover.id-21755082 .meta:after{
-    content: 'FUCKED';
+    content: 'TOMOAKI';
     color: #009A80;
     position: absolute;
     top: 117px;
